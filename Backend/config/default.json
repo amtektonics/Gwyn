@@ -1,0 +1,17 @@
+{
+    "server":{
+        
+        "APIPort":3000,
+        "pepper": "gwyn",
+        "DBSettings":{
+            "user":"GwynAccess",
+            "host":"localhost",
+            "database": "Gwyn",
+            "password":"GwynAccess",
+            "port": 5432,
+            "max":20,
+            "idleTimeout":30000,
+            "connectionTimeout":2000
+        }
+    }
+}

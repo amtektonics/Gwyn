@@ -1,0 +1,16 @@
+{
+  "name": "gwynbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Tektonics Software",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.7",
+    "express": "^4.18.1",
+    "pg": "^8.7.3"
+  }
+}
